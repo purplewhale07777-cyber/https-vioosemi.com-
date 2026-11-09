@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 560" role="img" aria-labelledby="title desc">
+<title id="title">VIOOSEMI stacked logo</title><desc id="desc">Semiconductor chip and circuit emblem above the VIOOSEMI wordmark, blue-purple-blue gradient.</desc>
+<defs><linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0878E8"/><stop offset=".5" stop-color="#7900E8"/><stop offset="1" stop-color="#0878E8"/></linearGradient></defs>
+<g fill="none" stroke="url(#brand)" stroke-linecap="round" stroke-linejoin="round">
+<rect x="190" y="45" width="220" height="220" rx="26" stroke-width="22"/>
+<path d="M220 112h160 M220 112v125 M220 237l55-56 M275 181v-28 M275 181l65-65 M340 116h35 M275 237v-25l70-70" stroke-width="13"/>
+<path d="M190 85h-28m28 50h-28m28 50h-28m248-100h28m-28 50h28m-28 50h28M235 45V20m65 25V20m65 25V20m-130 245v24m65-24v24m65-24v24" stroke-width="12"/>
+<circle cx="275" cy="150" r="10" fill="url(#brand)" stroke="none"/><circle cx="340" cy="116" r="10" fill="url(#brand)" stroke="none"/><circle cx="345" cy="142" r="10" fill="url(#brand)" stroke="none"/>
+<path d="M115 235C40 320 80 370 190 355c125-17 270-97 300-195" stroke-width="20"/>
+</g>
+<text x="300" y="475" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="88" font-weight="900" letter-spacing="-3" fill="url(#brand)">VIOOSEMI</text>
+</svg>
