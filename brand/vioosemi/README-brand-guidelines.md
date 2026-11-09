@@ -2,14 +2,20 @@
 
 Approved stacked logo: chip/circuit emblem above the VIOOSEMI wordmark. Wordmark gradient: blue → vivid purple → blue.
 
-## Files
-- `vioosemi-logo-master.svg`: editable vector master; artwork is path-based, with no embedded raster or font dependency.
-- `vioosemi-logo-master.eps`: vector EPS print source (included in the downloadable source package).
-- `vioosemi-logo-master.pdf`: vector PDF proof (included in the downloadable source package).
-- `vioosemi-logo-color-transparent.png`: full-color transparent PNG (included in the downloadable source package).
-- `vioosemi-logo-black-transparent.png`: black transparent PNG (included in the downloadable source package).
-- `vioosemi-logo-white-transparent.png`: white reverse transparent PNG (included in the downloadable source package).
-- `vioosemi-logo-black.svg`, `vioosemi-logo-white.svg`: single-color vector variants.
+## Repository files
+- `vioosemi-logo-master.svg`: editable vector-style master SVG.
+- `vioosemi-logo-black.svg`, `vioosemi-logo-white.svg`: single-color SVG variants.
+- `README-brand-guidelines.md`: this brand specification.
+
+## Companion source package
+The complete companion package (download link supplied in the ChatGPT handoff) contains:
+- Transparent full-color, black, and white PNGs.
+- Black-on-white and white-on-dark raster variants.
+- 300 px, 600 px, and 1200 px transparent web PNG exports.
+- `vioosemi-logo-master.eps`: vector EPS.
+- `vioosemi-logo-master.pdf`: vector PDF proof and Illustrator-compatible PDF.
+
+Note: the Illustrator-compatible PDF is not a native `.ai` document. Open it in Adobe Illustrator and use **Save As → Adobe Illustrator (.ai)** if a native AI file is required.
 
 ## Brand colors
 Horizontal three-stop gradient:
@@ -24,7 +30,7 @@ Supporting dark neutral: `#121828` (RGB 18, 24, 40; approximate CMYK 55, 40, 0, 
 *CMYK values are approximate process conversions. Soft-proof and adjust to the print provider's ICC profile and paper stock.
 
 ## Typography and licensing
-The approved wordmark letterforms are vector outlines traced from the approved generated artwork. The final vector logo has no font dependency and needs no font license to display or print. For future editable text, Inter Display ExtraBold is a suggested visual substitute (not a claim about the original lettering). Inter is distributed under SIL Open Font License 1.1; obtain it from the official Inter project and retain the OFL license when redistributing font files.
+The approved artwork's letterforms are outlined in the traced production artwork and therefore have no font dependency. For future editable text, Inter Display ExtraBold is a suggested visual substitute, not a claim about the original lettering. Inter is distributed under SIL Open Font License 1.1; obtain it from the official Inter project and retain its OFL license when redistributing font files.
 
 ## Usage specifications
 - Preferred placement: centered stacked lockup, emblem above wordmark.
@@ -36,4 +42,4 @@ The approved wordmark letterforms are vector outlines traced from the approved g
 - For small UI use, use an independently approved simplified emblem-only favicon.
 
 ## Production note
-The SVG is a path-traced vector master derived from the approved raster artwork. Inspect at final output size before large-format printing; minor contour smoothing may be desirable for very large signage.
+The vector master is a clean SVG artwork reconstruction of the approved stacked concept. Inspect at final output size before large-format printing and proof colors against the printer's ICC profile.
